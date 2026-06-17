@@ -27,7 +27,7 @@ Consume:
 ## Instalacion
 
 ```bash
-git clone https://github.com/6toInformatica/client-admin.git
+git clone https://github.com/<ORG>/client-admin.git
 cd client-admin
 pnpm install
 cp .env.example .env
@@ -164,7 +164,7 @@ Ambos deben estar corriendo para funcionalidad completa.
 
 ## Docker
 
-Stack completo desde [kinalsports-stack](https://github.com/6toInformatica/kinalsports-stack):
+Stack completo desde el repositorio [kinalsports-stack](https://github.com/<ORG>/kinalsports-stack) de tu organización:
 
 ```bash
 cd kinalsports-stack
